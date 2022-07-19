@@ -6,30 +6,30 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Bhupinder",
+  firstName: "Mallesh",
   middleName: "",
-  lastName: "Garg",
+  lastName: "Dudimetla",
   message: " Passionate about changing the world with technology. ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/gargbhupinder",
+      url: "https://github.com/mallesh-dudimetla",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/bhupinder.garg.9",
+      url: "https://www.facebook.com/malleshyadav.dudimetla",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/gargbhupinder/",
+      url: "https://www.instagram.com/malleshdmy/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/gargbhupinder92/",
+      url: "https://www.linkedin.com/in/mallesh-dudimetla-a14460135/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/bhupindergarg92/",
+      url: "https://www.twitter.com/malleshdmy/",
     },
   ],
 };
@@ -51,11 +51,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/gargBhupinder.png"),
+  imageLink: require("../editable-stuff/me.jpg"),
   imageSize: 375,
   message:
-    "My name is Bhupinder Garg. I’m a graduate of 2014 from Shaheed Udham Singh College of Engineering and Technlogoy at Mohali with a degree in Information Technology. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://drive.google.com/file/d/18C6dh1Z5-EX5moXM9P7SlBTODpYdsQIP/view?usp=sharing",
+    "My name is Mallesh Dudimetla. I’m a graduate of 2019 from Rajiv Gandhi University of Knowledge Technologies Basar, with a degree in Computer Science And Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+  resume: "https://drive.google.com/file/d/1jrwu0GmfkFMir9c1-2IdU019HZIsNKhN/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "gargbhupinder", //i.e."johnDoe12Gh"
+  gitHubUsername: "mallesh-dudimetla", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -127,7 +127,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "gargbhupinder92@gmail.com",
+  email: "mallesh.dmy.98@gmail.com",
 };
 
 const experiences = {

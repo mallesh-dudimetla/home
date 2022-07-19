@@ -5,10 +5,10 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo:
-    <a href="https://gargbhupinder.github.io/home">gargbhupinder.github.io/home</a>
+    <a href="https://mallesh-dudimetla.github.io/home">mallesh-dudimetla.github.io/home</a>
     <br />
     <br />
-    <a href="https://gargbhupinder.github.io">About Me</a>
+    <a href="https://mallesh-dudimetla.github.io">About Me</a>
   </p>
 </p>
 
@@ -121,7 +121,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at gargbhupinder92@gmail.com.
+Facing issues? Feel free to contact at mallesh.dmy.98@gmail.com.
 
 ## Showcase 🚀
 
