@@ -8,7 +8,7 @@
     <a href="https://mallesh-dudimetla.github.io/home">mallesh-dudimetla.github.io/home</a>
     <br />
     <br />
-    <a href="https://mallesh-dudimetla.github.io">About Me</a>
+    <a href="https://mallesh-dudimetla.github.io/home/#aboutme">About Me</a>
   </p>
 </p>
 
